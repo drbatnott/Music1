@@ -1,0 +1,248 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-13956
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=4299 outsize=1149 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (82): undeclared identifier 'unity_ObjectToWorld'\nCompiling Vertex program with WATER_REFRACTIVE
+  api=4 type=0 insize=3453 outsize=0 kw=WATER_REFRACTIVE ok=0
+Cmd: preprocess
+  insize=3314 outsize=1749 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Program 'VertMultitex', error X3501: 'VertMultitex': entrypoint not found\nCompiling Vertex program with FOG_OFF
+  api=4 type=0 insize=544 outsize=0 kw=FOG_OFF ok=0
+Cmd: preprocess
+  insize=2601 outsize=1594 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Program 'VertDefault', error X3501: 'VertDefault': entrypoint not found\nCompiling Vertex program
+  api=4 type=0 insize=439 outsize=0 kw= ok=0
+Cmd: preprocess
+  error: 1 plat 16 at (191): #pragma target with unknown target: #pragma target 4.5
+  error: 1 plat 16 at (201): #pragma target with unknown target: #pragma target 4.5
+  error: 1 plat 16 at (211): #pragma target with unknown target: #pragma target 4.5
+  insize=6600 outsize=563 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (107): unrecognized identifier 'VaryingsDefault'\nCompiling Vertex program
+  api=4 type=0 insize=6251 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3079 outsize=367 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (63): unrecognized identifier 'VaryingsDefault'\nCompiling Vertex program
+  api=4 type=0 insize=2970 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=3309 outsize=261 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): undeclared identifier 'unity_to_ACES'\nCompiling Vertex program
+  api=4 type=0 insize=3358 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2867 outsize=1081 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=792 outsize=1006 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=792 outsize=1266 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=560 outsize=1006 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=560 outsize=827 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=525 outsize=778 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=525 outsize=380 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1119 outsize=1193 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1119 outsize=1103 kw= ok=1
+Cmd: preprocess
+  insize=31310 outsize=1754 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (98): undeclared identifier 'UnityObjectToClipPos'\nCompiling Vertex program
+  api=4 type=0 insize=29097 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=934 outsize=312 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (18): unrecognized identifier 'AttributesDefault'\nCompiling Vertex program
+  api=4 type=0 insize=927 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5006 outsize=866 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4390 outsize=1599 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4390 outsize=1323 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4394 outsize=1412 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4394 outsize=1534 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4395 outsize=1412 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4395 outsize=1534 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4399 outsize=1769 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4399 outsize=1802 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4400 outsize=1769 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4400 outsize=1802 kw= ok=1
+Cmd: preprocess
+  insize=5780 outsize=1911 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (58): unrecognized identifier 'AttributesDefault'\nCompiling Vertex program
+  api=4 type=0 insize=3996 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=5415 outsize=3062 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Program 'VertDOF', error X3501: 'VertDOF': entrypoint not found\nCompiling Vertex program
+  api=4 type=0 insize=474 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=7066 outsize=957 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (27): unrecognized identifier 'VaryingsDefault'\nCompiling Vertex program
+  api=4 type=0 insize=6114 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2582 outsize=432 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (20): unrecognized identifier 'AttributesDefault'\nCompiling Vertex program
+  api=4 type=0 insize=2407 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=11336 outsize=682 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (70): unrecognized identifier 'AttributesDefault'\nCompiling Vertex program
+  api=4 type=0 insize=10964 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=2542 outsize=308 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (40): unrecognized identifier 'VaryingsDefault'\nCompiling Vertex program
+  api=4 type=0 insize=2539 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=1893 outsize=1094 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (0): Program 'VertSolver', error X3501: 'VertSolver': entrypoint not found\nCompiling Vertex program
+  api=4 type=0 insize=415 outsize=0 kw= ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=977 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=977 outsize=10504 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=934 outsize=4036 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=934 outsize=5401 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3533 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=380 kw=SHADOWS_DEPTH ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10561 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4036 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5515 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3776 kw=SHADOWS_DEPTH _ALPHATEST_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=835 kw=SHADOWS_DEPTH _ALPHATEST_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10739 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHATEST_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4036 kw=DIRECTIONAL SHADOWS_OFF _ALPHATEST_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5718 kw=DIRECTIONAL SHADOWS_OFF _ALPHATEST_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1706 outsize=1290 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1706 outsize=868 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3776 kw=SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=1233 kw=SHADOWS_DEPTH _ALPHAPREMULTIPLY_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION _ALPHAPREMULTIPLY_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10861 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION _ALPHAPREMULTIPLY_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4036 kw=DIRECTIONAL SHADOWS_OFF _ALPHAPREMULTIPLY_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5669 kw=DIRECTIONAL SHADOWS_OFF _ALPHAPREMULTIPLY_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10869 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4036 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5580 kw=DIRECTIONAL SHADOWS_OFF _METALLICGLOSSMAP ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _DETAIL_MULX2 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=11073 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _DETAIL_MULX2 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4036 kw=DIRECTIONAL SHADOWS_OFF _DETAIL_MULX2 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=6027 kw=DIRECTIONAL SHADOWS_OFF _DETAIL_MULX2 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10772 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=977 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=977 outsize=10715 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHAPREMULTIPLY_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10650 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHAPREMULTIPLY_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=990 outsize=1087 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=990 outsize=713 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION _ALPHATEST_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10951 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _EMISSION _ALPHATEST_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1705 outsize=1290 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1705 outsize=924 kw=SOFTPARTICLES_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=818 outsize=778 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=818 outsize=510 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=751 outsize=3776 kw=SHADOWS_DEPTH _ALPHABLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=751 outsize=1233 kw=SHADOWS_DEPTH _ALPHABLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=982 outsize=3979 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHABLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=982 outsize=10585 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF _ALPHABLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=938 outsize=4036 kw=DIRECTIONAL SHADOWS_OFF _ALPHABLEND_ON ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=938 outsize=5539 kw=DIRECTIONAL SHADOWS_OFF _ALPHABLEND_ON ok=1
+Cmd: compileCompute
+  error: 2 plat 16 at (24): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=3120 outsize=37 ok=0
+Cmd: compileCompute
+  error: 2 plat 16 at (24): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=3120 outsize=37 ok=0
+Cmd: compileCompute
+  error: 2 plat 16 at (24): failed to open source file: 'UnityCG.cginc'
+  api=15 insize=3120 outsize=37 ok=0
+Cmd: compileCompute
+  error: 2 plat 16 at (24): failed to open source file: 'UnityCG.cginc'
+  api=9 insize=3120 outsize=37 ok=0
+Cmd: compileCompute
+  error: 2 plat 16 at (24): failed to open source file: 'UnityCG.cginc'
+  api=4 insize=3120 outsize=37 ok=0
+Cmd: compileSnippet
+  api=4 type=0 insize=1089 outsize=1314 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1089 outsize=1006 kw= ok=1
